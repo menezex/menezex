@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" min-width="440px" max-width="440px" width="440px" align="right">
 
 
-<p align="center">Sou apaixonado por tecnologia e em resolver problemas. Estudando para ser um <strong>desenvolver frontend</strong>, no momento estou cursando o ultimo semestre da faculdade de Análise e Desenvolvimento de Sistemas pela IMPACTA.👨‍💻</p>&nbsp;
+<p align="center">Sou apaixonado por tecnologia e em resolver problemas. Estudando para ser um <strong>desenvolver frontend</strong>, no momento estou cursando o ultimo semestre da faculdade de Análise e Desenvolvimento de Sistemas pela IMPACTA.👨‍💻. 
+Estou em busca da minha primeira oportunidade para começar a trabalhar na área. 🚀</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=menezex&theme=radical&mode=weekly" />
