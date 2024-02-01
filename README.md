@@ -32,7 +32,7 @@ Estou em busca da minha primeira oportunidade para começar a trabalhar na área
 
 #### Estou estudando no momento:
 
-![VUE.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
+![REACT.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 
 
